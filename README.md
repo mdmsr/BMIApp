@@ -11,6 +11,9 @@
 
 تصاویر محیط برنامه:
 صفحه خوش‌آمدگویی
+
 <img width="450" height="649" alt="image" src="https://github.com/user-attachments/assets/0a5be7db-f586-4294-b170-5349e66c874b" />
+
 صفحه محاسبات و انتخاب رنگ
+
 <img width="449" height="649" alt="image" src="https://github.com/user-attachments/assets/50a2625a-31c9-4124-90ec-55c499d350f6" />
